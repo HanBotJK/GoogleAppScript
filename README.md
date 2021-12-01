@@ -1,2 +1,2 @@
-# Hanbot
-Hanbot related stuff
+# GoogleAppScript
+app script testing and learning
